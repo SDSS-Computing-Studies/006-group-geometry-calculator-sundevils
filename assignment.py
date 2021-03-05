@@ -31,12 +31,7 @@ def getParams(shape):
     return prompts
 
 def getInputs(questions):
-    # Will prompt the user for inputs for the shape they.
-    # These will be asked so that the user can enter in appropriate values
-    # It will turn all the input data into a list
-    # input parameter: list containing the prompts/questions
-    # output parameter: return a list containing all the measurements of the shape
-    measurements
+    pass
     
     return measurements
 
